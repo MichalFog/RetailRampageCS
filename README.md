@@ -25,5 +25,4 @@ This project is intended for learning and practicing:
 - Object-oriented programming in C#
 - Code organization and maintainability
 
-## 🚀 Getting Started
-1. Clone the repository:
+
