@@ -20,3 +20,5 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\refint\UI
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\ref\UI.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.products.resources
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.saleMenu.resources

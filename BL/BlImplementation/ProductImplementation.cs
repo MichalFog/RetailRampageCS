@@ -26,7 +26,11 @@ namespace BlImplementation
             {
                 _dal.Product.Delete(id);
             }
-            catch { throw new Exception(""); }
+            catch (DO.DalNotFound ex)
+            {
+                throw new BL_NoExistException("There is no such ID in the system.", ex);
+
+            }
         }
         public void GetActiveSales(ProductInOrder product, bool isPreferredCustomer)
         {
@@ -44,17 +48,14 @@ namespace BlImplementation
         }
         public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filter = null)
         {
-            try
-            {
+            
                 List<DO.Product> doProduct;
                 if (filter == null)
                     doProduct = _dal.Product.ReadAll();
                 else
                     doProduct = _dal.Product.ReadAll(doProduct => filter(BO.Tools.ConvertProductToBO(doProduct)));
                 return doProduct.Select(x => BO.Tools.ConvertProductToBO(x)).ToList();
-            }
-            catch
-            { throw new Exception(""); }
+            
         }
         public void Update(BO.Product product)
         {

@@ -48,6 +48,7 @@
             add.TabIndex = 0;
             add.Text = "הוספה";
             add.UseVisualStyleBackColor = true;
+            add.Click += add_Click;
             // 
             // update
             // 
@@ -58,6 +59,7 @@
             update.TabIndex = 1;
             update.Text = "עידכון";
             update.UseVisualStyleBackColor = true;
+            //update.Click += update_Click;
             // 
             // delete
             // 

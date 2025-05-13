@@ -1,27 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer>
   <Customer>
-    <CustomerId>34534567</CustomerId>
-    <CustomerName>אפרת</CustomerName>
-    <Address>מסילת יוסף 15</Address>
-    <Phone>0556791242</Phone>
+    <CustomerId>213213</CustomerId>
+    <CustomerName>גדדג</CustomerName>
+    <Address>בגדגד</Address>
+    <Phone>0</Phone>
   </Customer>
   <Customer>
-    <CustomerId>32123443</CustomerId>
-    <CustomerName>דוד</CustomerName>
-    <Address>יהודה הנשיא 34</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>34545343</CustomerId>
-    <CustomerName>מיכל</CustomerName>
-    <Address>המסגר 52</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>37655343</CustomerId>
-    <CustomerName>יוסי</CustomerName>
-    <Address>קהילות יעקב 2</Address>
-    <Phone>0556791242</Phone>
+    <CustomerId>215215215</CustomerId>
+    <CustomerName>נעמי</CustomerName>
+    <Address>רמב"ם 26</Address>
+    <Phone>0556784733</Phone>
   </Customer>
 </ArrayOfCustomer>

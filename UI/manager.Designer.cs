@@ -36,9 +36,10 @@
             // 
             // products
             // 
-            products.Location = new Point(64, 80);
+            products.Location = new Point(73, 107);
+            products.Margin = new Padding(3, 4, 3, 4);
             products.Name = "products";
-            products.Size = new Size(214, 169);
+            products.Size = new Size(245, 225);
             products.TabIndex = 0;
             products.Text = "מוצרים";
             products.UseVisualStyleBackColor = true;
@@ -46,9 +47,10 @@
             // 
             // customers
             // 
-            customers.Location = new Point(300, 80);
+            customers.Location = new Point(343, 107);
+            customers.Margin = new Padding(3, 4, 3, 4);
             customers.Name = "customers";
-            customers.Size = new Size(214, 169);
+            customers.Size = new Size(245, 225);
             customers.TabIndex = 1;
             customers.Text = "לקוחות";
             customers.UseVisualStyleBackColor = true;
@@ -56,31 +58,35 @@
             // 
             // sales
             // 
-            sales.Location = new Point(538, 80);
+            sales.Location = new Point(615, 107);
+            sales.Margin = new Padding(3, 4, 3, 4);
             sales.Name = "sales";
-            sales.Size = new Size(214, 169);
+            sales.Size = new Size(245, 225);
             sales.TabIndex = 2;
             sales.Text = "מבצעים";
             sales.UseVisualStyleBackColor = true;
+            sales.Click += sales_Click;
             // 
             // orders
             // 
-            orders.Location = new Point(300, 269);
+            orders.Location = new Point(343, 359);
+            orders.Margin = new Padding(3, 4, 3, 4);
             orders.Name = "orders";
-            orders.Size = new Size(214, 169);
+            orders.Size = new Size(245, 225);
             orders.TabIndex = 3;
             orders.Text = "הזמנות";
             orders.UseVisualStyleBackColor = true;
             // 
             // manager
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(orders);
             Controls.Add(sales);
             Controls.Add(customers);
             Controls.Add(products);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "manager";
             Text = "manager";
             ResumeLayout(false);
