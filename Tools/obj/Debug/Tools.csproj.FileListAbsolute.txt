@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\Tools.deps.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\Tools.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\Tools.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\ref\Tools.dll

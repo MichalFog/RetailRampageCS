@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\BL.deps.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\BL.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\BL.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\ref\BL.dll

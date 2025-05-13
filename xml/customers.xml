@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer>
   <Customer>
-    <CustomerId>35454223</CustomerId>
-    <CustomerName>שלמה</CustomerName>
-    <Address>שלמה המלך 7</Address>
-    <Phone>0556787414</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>234525343</CustomerId>
-    <CustomerName>שבי</CustomerName>
-    <Address>רבי עקיבא 6</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
     <CustomerId>34534567</CustomerId>
     <CustomerName>אפרת</CustomerName>
     <Address>מסילת יוסף 15</Address>
@@ -35,11 +23,5 @@
     <CustomerName>יוסי</CustomerName>
     <Address>קהילות יעקב 2</Address>
     <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>215114752</CustomerId>
-    <CustomerName>neomi</CustomerName>
-    <Address>rambam</Address>
-    <Phone>0556784733</Phone>
   </Customer>
 </ArrayOfCustomer>

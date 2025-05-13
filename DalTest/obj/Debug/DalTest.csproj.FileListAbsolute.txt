@@ -1,0 +1,17 @@
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\DalTest.exe
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\DalTest.deps.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\DalTest.runtimeconfig.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\DalTest.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\bin\DalTest.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.pdb
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\ref\DalTest.dll

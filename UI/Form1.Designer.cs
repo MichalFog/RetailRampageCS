@@ -34,9 +34,10 @@
             // 
             // manager
             // 
-            manager.Location = new Point(65, 104);
+            manager.Location = new Point(74, 139);
+            manager.Margin = new Padding(3, 4, 3, 4);
             manager.Name = "manager";
-            manager.Size = new Size(278, 130);
+            manager.Size = new Size(318, 173);
             manager.TabIndex = 0;
             manager.Text = "מנהל";
             manager.UseVisualStyleBackColor = true;
@@ -44,9 +45,10 @@
             // 
             // banker
             // 
-            banker.Location = new Point(473, 104);
+            banker.Location = new Point(541, 139);
+            banker.Margin = new Padding(3, 4, 3, 4);
             banker.Name = "banker";
-            banker.Size = new Size(278, 130);
+            banker.Size = new Size(318, 173);
             banker.TabIndex = 1;
             banker.Text = "קופאי";
             banker.UseVisualStyleBackColor = true;
@@ -54,11 +56,12 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(banker);
             Controls.Add(manager);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
