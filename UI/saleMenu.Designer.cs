@@ -69,6 +69,7 @@
             filterButten = new Button();
             filter = new TextBox();
             saleName = new TextBox();
+            prevPage = new Button();
             display.SuspendLayout();
             tabPage1.SuspendLayout();
             update.SuspendLayout();
@@ -81,10 +82,11 @@
             // 
             showSale.FormattingEnabled = true;
             showSale.ItemHeight = 20;
-            showSale.Location = new Point(862, 62);
+            showSale.Location = new Point(862, 61);
             showSale.Name = "showSale";
             showSale.Size = new Size(261, 364);
             showSale.TabIndex = 3;
+            showSale.SelectedIndexChanged += showSale_SelectedIndexChanged;
             // 
             // display
             // 
@@ -92,11 +94,12 @@
             display.Controls.Add(update);
             display.Controls.Add(delete);
             display.Controls.Add(tabPage4);
-            display.Location = new Point(179, 30);
+            display.Location = new Point(179, 29);
             display.Name = "display";
             display.SelectedIndex = 0;
             display.Size = new Size(662, 493);
             display.TabIndex = 2;
+            display.SelectedIndexChanged += display_SelectedIndexChanged;
             // 
             // tabPage1
             // 
@@ -119,6 +122,7 @@
             tabPage1.TabIndex = 0;
             tabPage1.Text = "הוספה";
             tabPage1.UseVisualStyleBackColor = true;
+            tabPage1.Click += tabPage1_Click;
             // 
             // dateTimeEnd
             // 
@@ -170,6 +174,7 @@
             addSale.TabIndex = 22;
             addSale.Text = "הוסף מבצע";
             addSale.UseVisualStyleBackColor = true;
+            addSale.Click += addSale_Click;
             // 
             // textBox4
             // 
@@ -180,7 +185,7 @@
             // 
             // priceBox
             // 
-            priceBox.Location = new Point(166, 50);
+            priceBox.Location = new Point(166, 51);
             priceBox.Name = "priceBox";
             priceBox.Size = new Size(125, 27);
             priceBox.TabIndex = 17;
@@ -188,7 +193,7 @@
             // quentity
             // 
             quentity.AutoSize = true;
-            quentity.Location = new Point(339, 98);
+            quentity.Location = new Point(339, 99);
             quentity.Name = "quentity";
             quentity.Size = new Size(92, 20);
             quentity.TabIndex = 16;
@@ -241,6 +246,7 @@
             changeButten.TabIndex = 6;
             changeButten.Text = "שינוי";
             changeButten.UseVisualStyleBackColor = true;
+            changeButten.Click += changeButten_Click;
             // 
             // saleForChange
             // 
@@ -287,7 +293,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(300, 257);
+            label1.Location = new Point(299, 257);
             label1.Name = "label1";
             label1.Size = new Size(123, 20);
             label1.TabIndex = 39;
@@ -296,7 +302,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(300, 207);
+            label2.Location = new Point(299, 207);
             label2.Name = "label2";
             label2.Size = new Size(145, 20);
             label2.TabIndex = 38;
@@ -362,7 +368,7 @@
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(88, 10);
+            textBox3.Location = new Point(88, 11);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(125, 27);
             textBox3.TabIndex = 30;
@@ -370,7 +376,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(258, 10);
+            label5.Location = new Point(258, 11);
             label5.Name = "label5";
             label5.Size = new Size(79, 20);
             label5.TabIndex = 29;
@@ -406,6 +412,7 @@
             deleteButten.TabIndex = 3;
             deleteButten.Text = "מחק";
             deleteButten.UseVisualStyleBackColor = true;
+            deleteButten.Click += deleteButten_Click;
             // 
             // idDelete
             // 
@@ -445,6 +452,7 @@
             filterButten.TabIndex = 6;
             filterButten.Text = "סנן";
             filterButten.UseVisualStyleBackColor = true;
+            filterButten.Click += filterButten_Click;
             // 
             // filter
             // 
@@ -455,22 +463,33 @@
             // 
             // saleName
             // 
-            saleName.Location = new Point(238, 10);
+            saleName.Location = new Point(238, 11);
             saleName.Name = "saleName";
             saleName.Size = new Size(173, 27);
             saleName.TabIndex = 4;
             saleName.Text = "הכנס מזהה מבצע";
+            // 
+            // prevPage
+            // 
+            prevPage.Location = new Point(1132, 460);
+            prevPage.Name = "prevPage";
+            prevPage.Size = new Size(158, 80);
+            prevPage.TabIndex = 4;
+            prevPage.Text = "לעמוד הקודם";
+            prevPage.UseVisualStyleBackColor = true;
+            prevPage.Click += prevPage_Click;
             // 
             // saleMenu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1302, 552);
+            Controls.Add(prevPage);
             Controls.Add(showSale);
             Controls.Add(display);
             Name = "saleMenu";
             Text = "saleMenu";
-            //Load += this.saleMenu_Load_1;
+            Load += SaleMenu_Load;
             display.ResumeLayout(false);
             tabPage1.ResumeLayout(false);
             tabPage1.PerformLayout();
@@ -528,5 +547,6 @@
         private Button filterButten;
         private TextBox filter;
         private TextBox saleName;
+        private Button prevPage;
     }
 }

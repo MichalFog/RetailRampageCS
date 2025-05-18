@@ -1,4 +1,5 @@
-﻿using DO;
+﻿using BO;
+using DO;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -22,6 +23,8 @@ namespace UI
 
         private void customers_Load(object sender, EventArgs e)
         {
+            /*this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;*/
             var customers = s_bl.Customer.ReadAll()
                 .Select(c => new
                 {
@@ -106,7 +109,7 @@ namespace UI
                 {
                     try
                     {
-                        BO.Customer newCustomer = new BO.Customer(tz, customerName, address, phone);  
+                        BO.Customer newCustomer = new BO.Customer(tz, customerName, address, phone);
 
                         s_bl.Customer.Create(newCustomer);
 
@@ -140,5 +143,115 @@ namespace UI
             addCustomerForm.ShowDialog();
         }
 
+        private void update_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.CurrentRow == null)
+            {
+                MessageBox.Show("בחר לקוח לעדכון");
+                return;
+            }
+
+            // שליפת הנתונים מהשורה שנבחרה
+            string tzString = dataGridView1.CurrentRow.Cells["Tz"].Value.ToString();
+            string name = dataGridView1.CurrentRow.Cells["Costumer_name"].Value.ToString();
+            string address = dataGridView1.CurrentRow.Cells["Address"].Value.ToString();
+            string phone = dataGridView1.CurrentRow.Cells["phone"].Value.ToString();
+
+            if (!int.TryParse(tzString, out int tz))
+            {
+                MessageBox.Show("תעודת זהות לא חוקית");
+                return;
+            }
+
+            // פתיחת הטופס עם הנתונים הקיימים
+            Form updateCustomerForm = new Form();
+            updateCustomerForm.Text = "עדכן לקוח";
+
+            Label customerNameLabel = new Label { Text = "שם לקוח", Location = new Point(10, 40) };
+            Label addressLabel = new Label { Text = "כתובת", Location = new Point(10, 70) };
+            Label phoneLabel = new Label { Text = "טלפון", Location = new Point(10, 100) };
+
+            TextBox customerNameTextBox = new TextBox
+            {
+                Name = "customerNameTextBox",
+                Location = new Point(120, 40),
+                Width = 200,
+                Text = name
+            };
+            TextBox addressTextBox = new TextBox
+            {
+                Name = "addressTextBox",
+                Location = new Point(120, 70),
+                Width = 200,
+                Text = address
+            };
+            TextBox phoneTextBox = new TextBox
+            {
+                Name = "phoneTextBox",
+                Location = new Point(120, 100),
+                Width = 200,
+                Text = phone
+            };
+
+            Button saveButton = new Button
+            {
+                Text = "שמור",
+                Location = new Point(120, 130)
+            };
+
+            saveButton.Click += (s, args) =>
+            {
+                string updatedName = customerNameTextBox.Text;
+                string updatedAddress = addressTextBox.Text;
+                string updatedPhone = phoneTextBox.Text;
+
+                // שימוש בלוגיקה שלך
+                BO.Customer updatedCustomer = new BO.Customer();
+                updatedCustomer.Tz = tz;
+                updatedCustomer.Costumer_name = updatedName;
+                updatedCustomer.Address = updatedAddress;
+                updatedCustomer.phone = updatedPhone;
+
+                try
+                {
+                    s_bl.Customer.Update(updatedCustomer);
+                    MessageBox.Show("הלקוח עודכן בהצלחה");
+                    s_bl.Customer.Delete(tz);
+                    updateCustomerForm.Close();
+                    customers_Load(null, null); // רענון טבלת לקוחות
+                }
+                catch (BL_ExistException)
+                {
+                    MessageBox.Show("מצטערים אך קיים כבר לקוח עם מזהה זה");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("שגיאה בעדכון: " + ex.Message);
+                }
+            };
+
+            updateCustomerForm.Controls.Add(customerNameLabel);
+            updateCustomerForm.Controls.Add(addressLabel);
+            updateCustomerForm.Controls.Add(phoneLabel);
+            updateCustomerForm.Controls.Add(customerNameTextBox);
+            updateCustomerForm.Controls.Add(addressTextBox);
+            updateCustomerForm.Controls.Add(phoneTextBox);
+            updateCustomerForm.Controls.Add(saveButton);
+
+            updateCustomerForm.ShowDialog();
+        }
+
+        private void prevPage_Click(object sender, EventArgs e)
+        {
+            manager menu = new manager();
+            this.Hide();//הסתרת המסך הנוכחי
+            menu.FormClosed += Menu_FormClosed;//רישום לאירוע של סגירת המסך המשני
+            menu.Show();
+        }
+
+        private void Menu_FormClosed(object? sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
     }
 }

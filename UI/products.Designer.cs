@@ -58,6 +58,7 @@
             nameBox = new TextBox();
             name = new Label();
             add = new TabControl();
+            prevPage = new Button();
             update.SuspendLayout();
             panel1.SuspendLayout();
             delete.SuspendLayout();
@@ -280,11 +281,12 @@
             // catroryBox
             // 
             catroryBox.FormattingEnabled = true;
-            catroryBox.Items.AddRange(new object[] { "Fruits", "Vegetables", "Fish", "Meat", "Dairy ", "", "" });
+            catroryBox.Items.AddRange(new object[] { "fruit", "milky", "vegetables", "sweet", "meaty" });
             catroryBox.Location = new Point(174, 159);
             catroryBox.Name = "catroryBox";
             catroryBox.Size = new Size(132, 28);
             catroryBox.TabIndex = 19;
+            catroryBox.SelectedIndexChanged += catroryBox_SelectedIndexChanged;
             // 
             // textBox4
             // 
@@ -353,12 +355,24 @@
             add.SelectedIndex = 0;
             add.Size = new Size(613, 501);
             add.TabIndex = 1;
+            add.SelectedIndexChanged += add_SelectedIndexChanged;
+            // 
+            // prevPage
+            // 
+            prevPage.Location = new Point(844, 462);
+            prevPage.Name = "prevPage";
+            prevPage.Size = new Size(158, 80);
+            prevPage.TabIndex = 4;
+            prevPage.Text = "לעמוד הקודם";
+            prevPage.UseVisualStyleBackColor = true;
+            prevPage.Click += prevPage_Click;
             // 
             // products
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1025, 554);
+            Controls.Add(prevPage);
             Controls.Add(add);
             Controls.Add(showProducts);
             Name = "products";
@@ -406,6 +420,7 @@
         private TextBox nameBox;
         private Label name;
         private TabControl add;
+        private Button prevPage;
 
         #endregion
 

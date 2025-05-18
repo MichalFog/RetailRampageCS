@@ -28,16 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             manager = new Button();
             banker = new Button();
             SuspendLayout();
             // 
             // manager
             // 
-            manager.Location = new Point(74, 139);
+            manager.Font = new Font("Showcard Gothic", 48F, FontStyle.Bold, GraphicsUnit.Point);
+            manager.Location = new Point(397, 65);
             manager.Margin = new Padding(3, 4, 3, 4);
             manager.Name = "manager";
-            manager.Size = new Size(318, 173);
+            manager.Size = new Size(491, 217);
             manager.TabIndex = 0;
             manager.Text = "מנהל";
             manager.UseVisualStyleBackColor = true;
@@ -45,10 +47,11 @@
             // 
             // banker
             // 
-            banker.Location = new Point(541, 139);
+            banker.Font = new Font("Showcard Gothic", 48F, FontStyle.Bold, GraphicsUnit.Point);
+            banker.Location = new Point(927, 65);
             banker.Margin = new Padding(3, 4, 3, 4);
             banker.Name = "banker";
-            banker.Size = new Size(318, 173);
+            banker.Size = new Size(493, 217);
             banker.TabIndex = 1;
             banker.Text = "קופאי";
             banker.UseVisualStyleBackColor = true;
@@ -58,12 +61,15 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(914, 600);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(1432, 701);
             Controls.Add(banker);
             Controls.Add(manager);
+            FormBorderStyle = FormBorderStyle.None;
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
         }
 

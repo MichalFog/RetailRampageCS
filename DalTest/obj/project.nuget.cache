@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IXMexXqU50=",
+  "dgSpecHash": "SvHDyQZiFpPEfTWRU8LdEK6kYohO/gGshOhS2zMmcVmfkS/TYkH2KBMMqjUIeJTf+RjBhwRTaYV/LMVq+g2Pxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalTest\\DalTest.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalTest\\DalTest.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

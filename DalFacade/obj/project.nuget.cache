@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x3Q4/2ljaZg=",
+  "dgSpecHash": "Lz8Aujlscojwzm39aulXvG2AW4Q3iGbM1I8tcWD3SKoUJ9rVceAj6b0RM/B6BPja+uD+VJHabefKN0yfPVTMQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalFacade\\DalFacade.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalFacade\\DalFacade.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

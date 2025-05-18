@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sale>
-    <id>1</id>
-    <product_id>0</product_id>
-    <amount_for_sale>5</amount_for_sale>
-    <price_sale>3</price_sale>
-    <for_who>true</for_who>
-    <start_sale>0001-01-01T00:00:00</start_sale>
-    <end_sale>0001-01-01T00:00:00</end_sale>
-  </Sale>
-  <Sale>
-    <id>2</id>
-    <product_id>1</product_id>
-    <amount_for_sale>10</amount_for_sale>
-    <price_sale>5</price_sale>
-    <for_who>true</for_who>
-    <start_sale>0001-01-01T00:00:00</start_sale>
-    <end_sale>0001-01-01T00:00:00</end_sale>
-  </Sale>
-  <Sale>
     <id>3</id>
     <product_id>2</product_id>
     <amount_for_sale>5</amount_for_sale>
@@ -35,5 +17,23 @@
     <for_who>true</for_who>
     <start_sale>0001-01-01T00:00:00</start_sale>
     <end_sale>0001-01-01T00:00:00</end_sale>
+  </Sale>
+  <Sale>
+    <id>6</id>
+    <product_id>0</product_id>
+    <amount_for_sale>12</amount_for_sale>
+    <price_sale>10</price_sale>
+    <for_who>true</for_who>
+    <start_sale>2025-05-14T14:26:59.5950878+03:00</start_sale>
+    <end_sale>2025-05-16T14:25:58</end_sale>
+  </Sale>
+  <Sale>
+    <id>7</id>
+    <product_id>0</product_id>
+    <amount_for_sale>3</amount_for_sale>
+    <price_sale>30</price_sale>
+    <for_who>true</for_who>
+    <start_sale>2025-05-18T03:05:32.6307436+03:00</start_sale>
+    <end_sale>2025-05-20T03:05:05</end_sale>
   </Sale>
 </ArrayOfSale>

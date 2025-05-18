@@ -12,3 +12,42 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalList\obj\Debug\DalL
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalList\obj\Debug\refint\DalList.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalList\obj\Debug\DalList.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalList\obj\Debug\ref\DalList.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalList.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalList.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalList.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\refint\DalList.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\DalList.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalList\obj\Debug\ref\DalList.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalList.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalList.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalList.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CopyComplete
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\refint\DalList.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalList\obj\Debug\ref\DalList.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalList.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalList.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalList.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.csproj.CopyComplete
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\refint\DalList.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\DalList.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalList\obj\Debug\ref\DalList.dll

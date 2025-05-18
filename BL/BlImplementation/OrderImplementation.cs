@@ -1,5 +1,6 @@
 ﻿using BlApi;
 using BO;
+using DO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +26,7 @@ namespace BlImplementation
                     throw new Exception("לא ניתן להסיר יותר כמות ממה שיש בהזמנה");
 
                 if (product.amount < newAmount)
-                    throw new Exception("אין מספיק מלאי במוצר");
+                    throw new BL_OperationFailedException("אין מספיק מלאי במוצר");
 
                 productInOrder.amount = newAmount;
             }
@@ -35,15 +36,15 @@ namespace BlImplementation
                     throw new Exception("לא ניתן להוסיף מוצר עם כמות שלילית");
 
                 if (product.amount < count)
-                    throw new Exception("אין מספיק מלאי במוצר");
+                    throw new BL_OperationFailedException("אין מספיק מלאי במוצר");
 
                 // 3. יצירת מוצר חדש להזמנה
-                productInOrder = new BO.ProductInOrder(product.id,product.product_name ?? "",
-                      product.price ?? 0,count, new List<BO.SaleInProduct>(),0);
+                productInOrder = new BO.ProductInOrder(product.id, product.product_name ?? "",
+                      product.price ?? 0, count, new List<BO.SaleInProduct>(), 0);
                 order.products.Add(productInOrder);
             }
             // 4. חיפוש מבצעים תקפים למוצר
-            SearchSaleForProduct(productInOrder, order.prefer); 
+            SearchSaleForProduct(productInOrder, order.prefer);
             // 5. חישוב המחיר הסופי למוצר כולל מבצעים
             CalcTotalPriceForProduct(productInOrder);
             // 6. חישוב המחיר הכולל של ההזמנה
@@ -53,32 +54,114 @@ namespace BlImplementation
         }
 
 
+        //public List<BO.SaleInProduct> AddProductToOrder(BO.Order order, int productId, int quantity)
+        //{
+        //    if (quantity < 1)
+        //    {
+        //        throw new BL_InvalidInputException("Invalid Quantity");
+        //    }
+        //    DO.Product p;
+        //    try
+        //    {
+        //        p = _dal.Product.Read(productId);
+        //    }
+        //    catch (DalNotFound ex)
+        //    {
+        //        throw new BL_NoExistException("There is no such ID in the system.", ex);
+
+        //    }
+        //    ProductInOrder productInOrder = order.products.FirstOrDefault(o => o.id == productId);
+
+        //    if (productInOrder != null)
+        //    {
+        //        if (productInOrder.amount + quantity > p.amount)
+        //        {
+        //            throw new BL_InvalidInputException("Invalid Quantity");
+        //        }
+        //        productInOrder.amount += quantity;
+        //    }
+        //    else
+        //    {
+        //        if (quantity > p.amount)
+        //            throw new BL_OperationFailedException("Invalid Quantity");
+        //        ProductInOrder productInOrder1 = new ProductInOrder(productId, p.product_name, p.price, quantity, new List<SaleInProduct>());
+        //        productInOrder = productInOrder1;
+        //        order.listProduct.Add(productInOrder);
+
+        //    }
+
+        //    SearchSaleForProduct(productInOrder, order.favoriteCustomer);
+        //    CalcTotalPriceForProduct(productInOrder);
+        //    CalcTotalPrice(order);
+
+        //    return productInOrder._saleList;
+        //}
+
+
+
         public void CalcTotalPrice(BO.Order order)
         {
             order.finalPrice = order.products.Sum(s => s.finalPrice);
         }
 
+        //public void CalcTotalPriceForProduct(BO.ProductInOrder productInOrder)
+        //{
+
+        //    int count = productInOrder.amount;
+        //    double price = 0;
+        //    List<SaleInProduct> sales = new List<SaleInProduct>();//רשימה של מבצעים
+
+        //    foreach (var item in productInOrder.sales)//עובר על המבצעים של המוצרים בהזמנה
+        //    {
+        //        if (count >= productInOrder.amount)//אם יש כמות מספקת בשביל המבצע
+        //        {
+        //            price += (count / productInOrder.amount) * (item.price);
+        //            sales.Add(item);
+        //            count = count % productInOrder.amount;
+        //        }
+        //        if (count == 0)
+        //            break;
+        //    }
+        //    price = price * count;//מעדכן את המחיר של כמה שנשאר שלא במבצע
+        //    productInOrder.sales = sales;
+        //    productInOrder.finalPrice = price;
+        //}
+
+
         public void CalcTotalPriceForProduct(BO.ProductInOrder productInOrder)
         {
 
-            int count = productInOrder.amount;
-            double price = 0;
-            List<SaleInProduct> sales = new List<SaleInProduct>();//רשימה של מבצעים
-
-            foreach (var item in productInOrder.sales)//עובר על המבצעים של המוצרים בהזמנה
+            int count = 0;
+            if (productInOrder.sales.ToArray().Length == 0)
             {
-                if (count >= productInOrder.amount)//אם יש כמות מספקת בשביל המבצע
-                {
-                    price += (count / productInOrder.amount) * (item.price);
-                    sales.Add(item);
-                    count = count % productInOrder.amount;
-                }
-                if (count == 0)
-                    break;
+
+                productInOrder.finalPrice = productInOrder.basePrice * productInOrder.amount;
+                count = productInOrder.amount;
+                return;
             }
-            price = price * count;//מעדכן את המחיר של כמה שנשאר שלא במבצע
-            productInOrder.sales = sales;
-            productInOrder.finalPrice = price;
+            else
+            {
+                List<BO.SaleInProduct> mySales = new List<BO.SaleInProduct>();
+                count = productInOrder.amount;
+                productInOrder.finalPrice = 0;
+                foreach (var item in productInOrder.sales)
+                {
+                    if (count == 0)
+                        break;
+                    if (count >= item.amount)
+                    {
+                        int amount = count / item.amount;
+                        count = count % item.amount;
+                        mySales.Add(item);
+                        productInOrder.finalPrice += (amount * item.amount * productInOrder.basePrice) - amount * item.price;
+                    }
+                }
+                productInOrder.finalPrice += count * productInOrder.basePrice;
+                foreach (var item in mySales)
+                {
+                    productInOrder.sales.Add(item);
+                }
+            }
         }
 
         public void DoOrder(BO.Order order)

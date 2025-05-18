@@ -10,3 +10,39 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\refint\Tools.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\Tools.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\Tools\obj\Debug\ref\Tools.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\Tools.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\Tools.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\Tools.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\Tools\obj\Debug\ref\Tools.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\Tools.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\Tools.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\Tools.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\refint\Tools.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\Tools\obj\Debug\ref\Tools.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\Tools.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\Tools.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\Tools.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\refint\Tools.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\Tools.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\Tools\obj\Debug\ref\Tools.dll

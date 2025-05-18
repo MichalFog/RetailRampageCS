@@ -40,7 +40,24 @@ namespace UI
 
         private void sales_Click(object sender, EventArgs e)
         {
+            saleMenu menu = new saleMenu();
+            this.Hide();//הסתרת המסך הנוכחי
+            menu.FormClosed += Menu_FormClosed;//רישום לאירוע של סגירת המסך המשני
+            menu.Show();
+        }
 
+        private void manager_Load(object sender, EventArgs e)
+        {
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+        }
+
+        private void prevPage_Click(object sender, EventArgs e)
+        {
+            Form1 menu = new Form1();
+            this.Hide();//הסתרת המסך הנוכחי
+            menu.FormClosed += Menu_FormClosed;//רישום לאירוע של סגירת המסך המשני
+            menu.Show();
         }
     }
 }

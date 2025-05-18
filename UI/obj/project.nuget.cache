@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LIBjNia7290=",
+  "dgSpecHash": "G9aTk1nT8bhbaAQUnOmV0Ut2NK5E5FfETanIUeuDE/LJ8l/KZfj6rKTexRvEy4YnyJvU01/lOC2eWiWIjQyoPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\UI\\UI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\UI\\UI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

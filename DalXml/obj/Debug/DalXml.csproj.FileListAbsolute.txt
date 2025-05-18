@@ -12,3 +12,42 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalXml\obj\Debug\DalXm
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalXml\obj\Debug\DalXml.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalXml.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalXml.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalXml.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalXml\obj\Debug\ref\DalXml.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalXml.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalXml.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalXml.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\refint\DalXml.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\ref\DalXml.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalXml.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalXml.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalXml.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\refint\DalXml.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\DalXml.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalXml\obj\Debug\ref\DalXml.dll

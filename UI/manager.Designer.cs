@@ -31,7 +31,7 @@
             products = new Button();
             customers = new Button();
             sales = new Button();
-            orders = new Button();
+            prevPage = new Button();
             SuspendLayout();
             // 
             // products
@@ -67,28 +67,29 @@
             sales.UseVisualStyleBackColor = true;
             sales.Click += sales_Click;
             // 
-            // orders
+            // prevPage
             // 
-            orders.Location = new Point(343, 359);
-            orders.Margin = new Padding(3, 4, 3, 4);
-            orders.Name = "orders";
-            orders.Size = new Size(245, 225);
-            orders.TabIndex = 3;
-            orders.Text = "הזמנות";
-            orders.UseVisualStyleBackColor = true;
+            prevPage.Location = new Point(37, 439);
+            prevPage.Name = "prevPage";
+            prevPage.Size = new Size(158, 80);
+            prevPage.TabIndex = 3;
+            prevPage.Text = "לעמוד הקודם";
+            prevPage.UseVisualStyleBackColor = true;
+            prevPage.Click += prevPage_Click;
             // 
             // manager
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(914, 600);
-            Controls.Add(orders);
+            Controls.Add(prevPage);
             Controls.Add(sales);
             Controls.Add(customers);
             Controls.Add(products);
             Margin = new Padding(3, 4, 3, 4);
             Name = "manager";
             Text = "manager";
+            Load += manager_Load;
             ResumeLayout(false);
         }
 
@@ -97,6 +98,6 @@
         private Button products;
         private Button customers;
         private Button sales;
-        private Button orders;
+        private Button prevPage;
     }
 }

@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlTest
-build_property.ProjectDir = C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BlTest\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\

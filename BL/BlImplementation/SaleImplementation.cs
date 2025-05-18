@@ -1,4 +1,6 @@
 ﻿using BlApi;
+using BO;
+using DO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,8 +40,10 @@ namespace BlImplementation
             {
                 return BO.Tools.ConvertSaleToBO(_dal.Sale.Read(id));
             }
-            catch
-            { throw new Exception(""); }
+            catch (DalNotFound ex)
+            {
+                throw new BL_NoExistException("There is no such ID in the system.", ex);
+            }
         }
 
         public BO.Sale? Read(Func<BO.Sale, bool> filtre)

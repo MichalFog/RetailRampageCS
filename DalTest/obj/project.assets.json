@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalTest\\DalTest.csproj",
+      "projectPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalTest\\DalTest.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalTest\\obj\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,17 +114,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalFacade\\DalFacade.csproj"
             },
-            "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalList\\DalList.csproj"
+            "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalList\\DalList.csproj"
             },
-            "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalXml\\DalXml.csproj"
+            "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalXml\\DalXml.csproj"
             },
-            "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\Tools\\Tools.csproj": {
-              "projectPath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\Tools\\Tools.csproj"
+            "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\Tools\\Tools.csproj"
             }
           }
         }
@@ -133,11 +133,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -154,30 +149,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

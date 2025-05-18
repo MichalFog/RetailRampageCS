@@ -11,7 +11,7 @@ namespace BO
         private double? price_sale1;
         private double? price_sale2;
 
-        public int id { get; init; }
+        public int id { get; set; }
         public int product_id { get; init; }
         public double? price_sale { get; set; }
         public int? amount_for_sale { get; set; }
@@ -27,6 +27,17 @@ namespace BO
             this.amount_for_sale = amount;
             this.for_who = for_who;
             this.start_sale = start_sale;
+            this.end_sale = end_sale;
+        }
+
+        public Sale()
+        {
+            this.id = 0;
+            this.product_id = 0;
+            this.price_sale = 0;
+            this.amount_for_sale = 0;
+            this.for_who = false;
+            this.start_sale = new DateTime();
             this.end_sale = end_sale;
         }
 

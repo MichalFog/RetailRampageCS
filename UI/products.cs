@@ -24,6 +24,8 @@ namespace UI
 
         private void products_Load(object sender, EventArgs e)
         {
+            /* this.FormBorderStyle = FormBorderStyle.None;
+             this.WindowState = FormWindowState.Maximized;*/
             //showProducts.Items.Clear();
             panel1.Visible = false;
             fullList(s_bl.Product.ReadAll());
@@ -94,7 +96,6 @@ namespace UI
 
         private void deleteButten_Click(object sender, EventArgs e)
         {
-
             bool num = int.TryParse(idDelete.Text, out int result);
             if (!num)
             {
@@ -113,10 +114,7 @@ namespace UI
                 {
                     MessageBox.Show("מוצר לא קיים");
                 }
-
             }
-
-
         }
 
         private void changeButten_Click(object sender, EventArgs e)
@@ -136,8 +134,8 @@ namespace UI
                 textBox2.Text = p.price.ToString();
                 comboBox1.Text = p.category.ToString();
                 fullList(s_bl.Product.ReadAll());
-                //saleMenu s = new saleMenu();
-                //List<BO.Sale> sale = s_bl.Sale.ReadAll(s => s.id == p.id);
+                saleMenu s = new saleMenu();
+                List<BO.Sale> sale = s_bl.Sale.ReadAll(s => s.id == p.id);
             }
             catch (BL_NoExistException)
             {
@@ -156,6 +154,30 @@ namespace UI
             p.amount = int.Parse(textBox1.Text);
             s_bl.Product.Update(p);
             fullList(s_bl.Product.ReadAll());
+        }
+
+        private void add_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void prevPage_Click(object sender, EventArgs e)
+        {
+
+            manager menu = new manager();
+            this.Hide();//הסתרת המסך הנוכחי
+            menu.FormClosed += Menu_FormClosed;//רישום לאירוע של סגירת המסך המשני
+            menu.Show();
+        }
+
+        private void Menu_FormClosed(object? sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
+
+        private void catroryBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

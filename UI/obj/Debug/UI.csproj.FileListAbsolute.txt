@@ -22,3 +22,76 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.genrun
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\ref\UI.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.products.resources
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\UI\obj\Debug\UI.saleMenu.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\UI.exe
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\UI.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\UI.runtimeconfig.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\UI.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\UI.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.banker.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.customers.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.manager.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.products.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.saleMenu.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\ref\UI.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.banker.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.customers.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.Form1.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.manager.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.products.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.saleMenu.resources
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.GenerateResource.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\refint\UI.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\UI.exe
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\UI.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\UI.runtimeconfig.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\UI.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\UI.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.CopyComplete
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.genruntimeconfig.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\ref\UI.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.Order.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.banker.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.customers.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.Form1.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.manager.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.products.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.saleMenu.resources
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\refint\UI.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\UI.exe
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\UI.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\UI.runtimeconfig.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\UI.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\UI.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.csproj.CopyComplete
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.genruntimeconfig.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\ref\UI.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\UI\obj\Debug\UI.NewOrder.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.NewOrder.resources
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\UI\obj\Debug\UI.Properties.Resources.resources

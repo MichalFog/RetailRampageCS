@@ -36,6 +36,7 @@
             Costumer_name = new DataGridViewTextBoxColumn();
             Address = new DataGridViewTextBoxColumn();
             phone = new DataGridViewTextBoxColumn();
+            prevPage = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -59,7 +60,7 @@
             update.TabIndex = 1;
             update.Text = "עידכון";
             update.UseVisualStyleBackColor = true;
-            //update.Click += update_Click;
+            update.Click += update_Click;
             // 
             // delete
             // 
@@ -112,11 +113,22 @@
             phone.Name = "phone";
             phone.Width = 125;
             // 
+            // prevPage
+            // 
+            prevPage.Location = new Point(744, 488);
+            prevPage.Name = "prevPage";
+            prevPage.Size = new Size(158, 80);
+            prevPage.TabIndex = 4;
+            prevPage.Text = "לעמוד הקודם";
+            prevPage.UseVisualStyleBackColor = true;
+            prevPage.Click += prevPage_Click;
+            // 
             // customers
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(914, 600);
+            Controls.Add(prevPage);
             Controls.Add(dataGridView1);
             Controls.Add(delete);
             Controls.Add(update);
@@ -139,5 +151,6 @@
         private DataGridViewTextBoxColumn Costumer_name;
         private DataGridViewTextBoxColumn Address;
         private DataGridViewTextBoxColumn phone;
+        private Button prevPage;
     }
 }

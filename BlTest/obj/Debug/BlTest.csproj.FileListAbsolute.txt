@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BlTest.exe
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BlTest.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BlTest.runtimeconfig.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BlTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BlTest.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BlTest\obj\Debug\ref\BlTest.dll

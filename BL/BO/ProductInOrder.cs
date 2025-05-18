@@ -8,7 +8,7 @@ namespace BO
 {
     public class ProductInOrder
     {
-        public int id { get; init; }
+        public int id { get; set; }
         public string name { get; set; }
         public double basePrice { get; set; }
         public int amount { get; set; }

@@ -35,7 +35,7 @@ namespace BlImplementation
         public void GetActiveSales(ProductInOrder product, bool isPreferredCustomer)
         {
             product.sales = _dal.Sale.ReadAll(s => s.product_id == product.id && s.start_sale <= DateTime.Now && s.end_sale >= DateTime.Now && s.amount_for_sale <= product.amount && (isPreferredCustomer || (s.for_who ?? true)))
-                .Select(s => new SaleInProduct(s.id, s.amount_for_sale ?? 0, s.price_sale ?? 0, s.for_who ?? true)).OrderBy(x=>x.price/x.amount).ToList();
+                .Select(s => new SaleInProduct(s.id, s.amount_for_sale ?? 0, s.price_sale ?? 0, s.for_who ?? true)).OrderBy(x => x.price / x.amount).ToList();
         }
         public BO.Product? Read(int id)
         {
@@ -43,19 +43,22 @@ namespace BlImplementation
             {
                 return BO.Tools.ConvertProductToBO(_dal.Product.Read(id));
             }
-            catch
-            { throw new Exception(""); }
+            catch (DO.DalNotFound ex)
+            {
+                throw new BL_NoExistException("There is no such ID in the system.", ex);
+            }
+
         }
         public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filter = null)
         {
-            
-                List<DO.Product> doProduct;
-                if (filter == null)
-                    doProduct = _dal.Product.ReadAll();
-                else
-                    doProduct = _dal.Product.ReadAll(doProduct => filter(BO.Tools.ConvertProductToBO(doProduct)));
-                return doProduct.Select(x => BO.Tools.ConvertProductToBO(x)).ToList();
-            
+
+            List<DO.Product> doProduct;
+            if (filter == null)
+                doProduct = _dal.Product.ReadAll();
+            else
+                doProduct = _dal.Product.ReadAll(doProduct => filter(BO.Tools.ConvertProductToBO(doProduct)));
+            return doProduct.Select(x => BO.Tools.ConvertProductToBO(x)).ToList();
+
         }
         public void Update(BO.Product product)
         {

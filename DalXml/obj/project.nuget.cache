@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M4rFvuYgUTs=",
+  "dgSpecHash": "E5A1rFTe2vfqI5M6C53YdSpZLYHXbAOT2Tuh7GEMwfHpCS4hDMbNc7sFeYfnQ0xR/jyB4Lz+1zV3F5GN/BKnUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\DalXml\\DalXml.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\DalXml\\DalXml.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

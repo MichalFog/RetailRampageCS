@@ -15,3 +15,51 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\refi
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalTest.exe
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalTest.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalTest.runtimeconfig.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\DalTest.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\DalTest\obj\Debug\ref\DalTest.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalTest.exe
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalTest.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalTest.runtimeconfig.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalTest.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\DalTest.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\refint\DalTest.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\ref\DalTest.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalTest.exe
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalTest.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalTest.runtimeconfig.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalTest.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\DalTest.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\refint\DalTest.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\DalTest\obj\Debug\ref\DalTest.dll

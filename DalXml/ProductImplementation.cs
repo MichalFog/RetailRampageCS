@@ -66,16 +66,42 @@ namespace Dal
             }
         }
 
+        //public List<Product?> ReadAll(Func<Product, bool>? filter = null)
+        //{
+        //    using (StreamReader sr = new StreamReader(filePath))
+        //    {
+        //        products = serializer.Deserialize(sr) as List<Product>;
+        //        if (filter == null)
+        //            return products;
+        //        return products.Where(filter).ToList();
+        //    }
+        //}
+
         public List<Product?> ReadAll(Func<Product, bool>? filter = null)
         {
+            if (!File.Exists(filePath))
+                return new List<Product?>(); // או לזרוק חריגה
+
             using (StreamReader sr = new StreamReader(filePath))
             {
-                products = serializer.Deserialize(sr) as List<Product>;
-                if (filter == null)
-                    return products;
-                return products.Where(filter).ToList();
+                try
+                {
+                    var deserialized = serializer.Deserialize(sr);
+                    products = deserialized as List<Product>;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("שגיאה בקריאת הקובץ: " + ex.Message);
+                    return new List<Product?>(); // או טיפול חריגה אחר
+                }
+
+                if (products == null)
+                    return new List<Product?>();
+
+                return filter == null ? products : products.Where(filter).ToList();
             }
         }
+
 
         public void Update(Product item)
         {

@@ -26,7 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xml", "xml", "{64F95893-DA9
 		xml\sales.xml = xml\sales.xml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{94255AC5-37B7-4AA6-A163-5B407DDB9D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{94255AC5-37B7-4AA6-A163-5B407DDB9D43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

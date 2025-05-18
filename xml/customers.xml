@@ -1,15 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer>
   <Customer>
-    <CustomerId>213213</CustomerId>
-    <CustomerName>גדדג</CustomerName>
-    <Address>בגדגד</Address>
-    <Phone>0</Phone>
+    <CustomerId>215147856</CustomerId>
+    <CustomerName>מיכל3</CustomerName>
+    <Address>נתיבות נמשפט</Address>
+    <Phone>0583215687</Phone>
   </Customer>
   <Customer>
-    <CustomerId>215215215</CustomerId>
-    <CustomerName>נעמי</CustomerName>
-    <Address>רמב"ם 26</Address>
-    <Phone>0556784733</Phone>
+    <CustomerId>215147856</CustomerId>
+    <CustomerName>מיכל4</CustomerName>
+    <Address>נתיבות נמשפט</Address>
+    <Phone>0583215687</Phone>
+  </Customer>
+  <Customer>
+    <CustomerId>553</CustomerId>
+    <CustomerName>נעמי2</CustomerName>
+    <Address>עיעי</Address>
+    <Phone>4545</Phone>
+  </Customer>
+  <Customer>
+    <CustomerId>553</CustomerId>
+    <CustomerName>3333</CustomerName>
+    <Address>עיעי</Address>
+    <Phone>4545</Phone>
   </Customer>
 </ArrayOfCustomer>

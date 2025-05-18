@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QyD+hHUPwiQ=",
+  "dgSpecHash": "Gn/+lT/v+j6AYBkedsL+eWJ1SbDr+mGrdvVf2w+EV+8wqyc6ZpLog1Mj9Xx3/GIC5+sM3hj1C01rOqD10C4tGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\Studies\\management\\DotNet-Projct-Store\\Tools\\Tools.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\לימודים\\שנה ב\\c#.net\\RetailRampageCS\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

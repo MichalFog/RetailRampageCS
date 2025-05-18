@@ -12,3 +12,42 @@ C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\refint\BL.dll
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\BL.pdb
 C:\Users\1\Desktop\Studies\management\DotNet-Projct-Store\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BL.deps.json
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BL.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\bin\BL.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\לימודים\שנה ב\c#.net\RetailRampageCS\BL\obj\Debug\ref\BL.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\BL.deps.json
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\BL.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\bin\BL.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.CopyComplete
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\refint\BL.dll
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.pdb
+M:\שנה ב\C# מתקדם פרוייקט\הפרוייקט\RetailRampageCS\BL\obj\Debug\ref\BL.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\BL.deps.json
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\BL.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\bin\BL.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.csproj.CopyComplete
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\refint\BL.dll
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\BL.pdb
+E:\לימודים\C# מתקדם\הפרוייקט\RetailRampageCS\BL\obj\Debug\ref\BL.dll
